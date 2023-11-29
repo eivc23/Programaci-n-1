@@ -1,0 +1,8 @@
+//
+// Created by Alumnos on 29/11/2023.
+//
+
+#ifndef PROGRAMACION_1_ASEGURADORA_H
+#define PROGRAMACION_1_ASEGURADORA_H
+
+#endif //PROGRAMACION_1_ASEGURADORA_H
