@@ -1,3 +1,7 @@
-//
-// Created by Alumnos on 29/11/2023.
-//
+#include <iostream>
+#include <string>
+
+class asegurado{
+public:
+    asegurado (const std:: string& nombre, CURP, int edad, fecha):
+};
